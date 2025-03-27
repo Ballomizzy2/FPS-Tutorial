@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4A2C69D9-E612-E487-3F1B-34CE757333BC}</ProjectGuid>
+    <ProjectGuid>{DDD08FD4-7897-7DEB-38BC-7CCF41E90A3C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>fps.Editor</AssemblyName>
@@ -1097,19 +1097,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="fps.Game.csproj">
-      <Project>{26A71414-2822-077D-5D3E-842762E76FAD}</Project>
+      <Project>{B1B222A6-17BC-A781-037B-B73C5A8B8495}</Project>
       <Name>fps.Game</Name>
     </ProjectReference>
     <ProjectReference Include="fps.Gameplay.csproj">
-      <Project>{7098FA74-2F84-9A72-ADB3-A9DD9CCC9B93}</Project>
+      <Project>{0C2E5B57-C9DC-C7A7-5B60-EF6673B5730A}</Project>
       <Name>fps.Gameplay</Name>
     </ProjectReference>
     <ProjectReference Include="fps.AI.csproj">
-      <Project>{6F247E8D-43C0-3F25-CD61-6E21E5B3AAD7}</Project>
+      <Project>{6F7E2019-48A5-525C-F7CF-9F6A25375105}</Project>
       <Name>fps.AI</Name>
     </ProjectReference>
     <ProjectReference Include="fps.UI.csproj">
-      <Project>{4380957A-76ED-1E74-13E3-12555A9347A9}</Project>
+      <Project>{B7EF9201-D875-4DFA-7EBE-62A1FAFEA814}</Project>
       <Name>fps.UI</Name>
     </ProjectReference>
   </ItemGroup>

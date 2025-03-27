@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{26A71414-2822-077D-5D3E-842762E76FAD}</ProjectGuid>
+    <ProjectGuid>{B1B222A6-17BC-A781-037B-B73C5A8B8495}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>fps.Game</AssemblyName>
